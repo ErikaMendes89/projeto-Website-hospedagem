@@ -57,6 +57,6 @@ Obrigado por conferir este projeto!
 
 Desenvolvido por Erika Mendes, atraves do curso do DevMedia.
 
-![AdaLovelaceDayOctober10GIF](https://github.com/ErikaMendes89/projeto-Website-hospedagem/assets/95776659/39b5d76f-a445-455a-94fb-5c6cfb2f75ba)
+<img src = "https://github.com/ErikaMendes89/projeto-meu-portfolio-atualizado/blob/main/Projeto-portifolio/imagens/site-de-hospedagem.gif.gif">
 
  
